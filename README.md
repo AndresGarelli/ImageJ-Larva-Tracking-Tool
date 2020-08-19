@@ -1,4 +1,7 @@
-Extract the "tracking macros.rar" file to the macros folder in imagej
+Download files separately or all the files in one single "tracking macros FiJi.rar" file
+
+
+Extract "tracking macros FiJi.rar" to the macros folder in imagej
 fiji.app/macros (or imagej.app/macros)
 
 Confirm that you want to replace the startupMacros.fiji file with the new one.
