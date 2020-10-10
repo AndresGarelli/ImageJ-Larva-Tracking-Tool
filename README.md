@@ -16,7 +16,12 @@ Confirm that you want to replace the startupMacros.fiji file with the new one. N
 
 A menu with 5 options will be dislplayed when clicking on that button:
 
-1-GCamp-LARVA 2-GCamp-Area-Larva 3-White Light 4- speed test 5- open czi
+1-GCamp-LARVA 
+2-GCamp-Area-Larva 
+3-White Light 
+4- speed test 
+5- open czi
+
 
 1-GCamp-LARVA this macro will track the larva and measure the intensity of the green channel in each larva in each area of the arena you select.
 
