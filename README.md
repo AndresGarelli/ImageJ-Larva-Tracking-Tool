@@ -1,12 +1,19 @@
 Download these files 
 
-GCAMP_Area.ijm 
+GCAMP_Area.ijm
+
 GCAMP_Larva.ijm
+
 StartupMacros.fiji.ijm
+
 Tracking Whit Light-Split Channel.ijm
+
 open_czi.ijm
+
 Speed_Test_Macro.ijm
+
 Files for speed test (can be omitted)
+
 
 or all the files in one single "tracking macros FiJi.rar" file
 
