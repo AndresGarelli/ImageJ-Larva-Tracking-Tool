@@ -6,9 +6,8 @@ Download these files
 - Tracking Whit Light-Split Channel.ijm
 - open_czi.ijm
 - Speed_Test_Macro.ijm
-- Files for speed test (can be omitted)
 
-or all the files in one single "tracking macros FiJi.rar" file
+or all the files in one single "tracking macros FiJi.rar" file. The images for the speed test are optional and only included in the .rar file
 
 Extract "tracking macros FiJi.rar" to the macros folder in imagej fiji.app/macros (or imagej.app/macros).
 
