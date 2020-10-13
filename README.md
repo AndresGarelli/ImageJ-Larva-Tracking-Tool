@@ -21,7 +21,7 @@ A menu with 5 options will be dislplayed when clicking on that button:
 
 3-White Light This macro is intented to be used to track larvae with white light illumination. It tracks the larva using the red channel and also measures the intensity of red and blue channels. The intensity of the red channel is almost constant during pupariation, but the intensity of the green channel slowly decreases as the pupa tans. It can be used to detect the moment when the larva becomes brown.
 
-4- performs a speed test
+4- performs a speed test under standardized conditions. Typical speed values obtained are 50-60 ms per image.
 
 5-open czi: to scan folders and subfolders and transform czi files into jpeg.
 
