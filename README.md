@@ -35,20 +35,35 @@ Here https://github.com/AndresGarelli/ImageJ-Larva-Tracking-Tool_example-files y
 * If you do not want to replace the startup macros file, the following lines have to be added at the end of it to create the button and menus of LTT:
 
 var lttCmds = newMenu("LarvaTracking Menu Tool",
+
       newArray("GCamp-LARVA","GCamp-Area-Larva","-", "White Light","Speed Test","-","Open czi"));
-      
+
+
 macro "LarvaTracking Menu Tool - C037T0b11LT7b10TTcb10T" {
        cmd = getArgument();
+       
        if (cmd=="GCamp-LARVA")
+       
        		runMacro("GCAMP_ONLY LARVA_splitChannels_measureGREEN.ijm");
+                  
        else if (cmd=="GCamp-Area-Larva")
+       
            runMacro("GCAMP_splitChannels_measureGREEN.ijm");
+           
        else if (cmd=="White Light")
+       
            runMacro("Tracking White Light-Split Channel.ijm");
+           
        else if (cmd=="Speed Test")
+       
        	   runMacro("Speed_Test_Macro.ijm");
+               
        else if (cmd=="Open czi")
+       
        		runMacro("open_czi.ijm");
+                  
        else if (cmd!="-")
+       
             run(cmd);
+            
   }
