@@ -1,5 +1,5 @@
 var archivos=0;
-macro "AspectRatio multichamber Tracking SPLIT CHANNELS ONLY larva SET Measurements" {
+macro "GCAMP_Larva" {
 
 
 print("Larva Tracking Tool - Andres Garelli");
