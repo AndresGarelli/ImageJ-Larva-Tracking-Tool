@@ -124,9 +124,9 @@ var lttCmds = newMenu("LarvaTracking Menu Tool",
 macro "LarvaTracking Menu Tool - C037T0b11LT7b10TTcb10T" {
        cmd = getArgument();
        if (cmd=="GCamp-LARVA")
-       		runMacro("GCAMP_ONLY LARVA_splitChannels_measureGREEN.ijm");
+       		runMacro("GCAMP_Larva.ijm");
        else if (cmd=="GCamp-Area-Larva")
-           runMacro("GCAMP_splitChannels_measureGREEN.ijm");
+           runMacro("GCAMP_Area.ijm");
        else if (cmd=="White Light")
            runMacro("Tracking White Light-Split Channel.ijm");
        else if (cmd=="Speed Test")
