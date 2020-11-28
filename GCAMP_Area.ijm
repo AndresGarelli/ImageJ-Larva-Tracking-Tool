@@ -1,5 +1,5 @@
 
-macro "AspectRatio multichamber Tracking SPLIT CHANNELS in AREA or LARVA SET Measurements" {
+macro "GCAMP_Area" {
 
 print("Larva Tracking Tool - Andres Garelli");
 path = File.openDialog("Open one picture to adjust settings");
