@@ -1,3 +1,6 @@
+Please have a look at https://github.com/AndresGarelli/Larva_Tracking_python for a new code that simultaneously records and tracks larval behavior.
+
+
 Download all the files and folders as a zip file clicking on the green "Code" button on the right hand side of the main page
 
 Extract the zip file to the macros folder in imagej fiji.app/macros (or imagej.app/macros).
